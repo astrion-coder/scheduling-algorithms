@@ -20,9 +20,3 @@ g++ main.cpp -std=c++11
 ```
 
 The output will show the average turnaround time for the processes along with a full timeline as to when which process is running.
-
-# Links
-Below you can find my Twitter and LinkedIn Pages. Feel free to connect 😊. Thank you for reading through this Project.
-
-* LinkedIn - https://www.linkedin.com/in/imankalyanchakraborty/
-* Twitter - https://twitter.com/ikc1975
